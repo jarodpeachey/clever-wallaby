@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Sign Up
         url: /
-        style: primary
+        style: secondary
         new_window: false
         type: action
     has_background: true
