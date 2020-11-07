@@ -1,10 +1,21 @@
 ---
 title: Blog
 sections:
-  - type: hero_section
+  - align: center
     title: Blog
-    align: center
-  - type: blog_feed_section
-    show_recent: false
+    type: hero_section
+  - show_recent: false
+    type: blog_feed_section
+  - actions:
+      - label: Sign Up
+        new_window: true
+        style: secondary
+        type: action
+        url: /sign-up
+    background_color: white
+    has_background: true
+    title: Sign up for our newsletter
+    type: cta_section
 template: advanced
 ---
+
