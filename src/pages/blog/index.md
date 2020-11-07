@@ -9,7 +9,7 @@ sections:
   - title: Sign up for our newsletter
     subtitle: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Sign Up
         url: lorem-ipsum
         style: link
         new_window: false
