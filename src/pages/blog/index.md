@@ -4,6 +4,7 @@ sections:
   - type: hero_section
     title: Blog
     align: center
+    image: /images/EYkwtpcUwAAWpZN.png
   - type: blog_feed_section
     show_recent: false
   - title: Sign up for our newsletter
