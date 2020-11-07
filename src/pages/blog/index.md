@@ -15,7 +15,7 @@ sections:
         new_window: false
         type: action
     has_background: false
-    background_color: blue
+    background_color: gray
     type: cta_section
 template: advanced
 ---
