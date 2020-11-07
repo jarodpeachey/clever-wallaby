@@ -10,7 +10,7 @@ sections:
     subtitle: lorem-ipsum
     actions:
       - label: Sign Up
-        url: lorem-ipsum
+        url: /
         style: link
         new_window: false
         type: action
