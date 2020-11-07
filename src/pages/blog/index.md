@@ -8,7 +8,12 @@ sections:
     show_recent: false
   - title: Sign up for our newsletter
     subtitle: lorem-ipsum
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        type: action
     has_background: false
     background_color: white
     type: cta_section
