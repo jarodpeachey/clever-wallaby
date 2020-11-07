@@ -12,7 +12,7 @@ sections:
       - label: Sign Up
         url: /
         style: secondary
-        new_window: false
+        new_window: true
         type: action
     has_background: true
     background_color: blue
