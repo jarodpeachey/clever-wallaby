@@ -6,7 +6,7 @@ sections:
     align: center
   - type: blog_feed_section
     show_recent: false
-  - title: lorem-ipsum
+  - title: Sign up for our newsletter
     subtitle: lorem-ipsum
     actions: []
     has_background: false
