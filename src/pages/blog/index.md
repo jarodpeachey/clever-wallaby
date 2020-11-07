@@ -5,6 +5,7 @@ sections:
     title: Blog
     align: center
     image: /images/EYkwtpcUwAAWpZN.png
+    has_background: true
   - type: blog_feed_section
     show_recent: false
   - title: Sign up for our newsletter
